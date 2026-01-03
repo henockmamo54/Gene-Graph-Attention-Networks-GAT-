@@ -1,0 +1,5 @@
+Source,Target,Weight,Source_Function,Target_Function
+FMNL2,GRB2,0.46815854,cytoskeleton organization,signal transduction
+ARHGAP4,AIP,0.45121253,cytoskeleton organization,protein targeting to mitochondrion
+ARHGAP4,SRP19,0.41069987,cytoskeleton organization,cotranslational protein targeting to membrane
+FMNL3,FMNL2,0.39979628,angiogenesis,cytoskeleton organization

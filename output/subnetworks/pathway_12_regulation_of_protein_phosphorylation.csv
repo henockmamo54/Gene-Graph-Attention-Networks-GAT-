@@ -1,0 +1,4 @@
+Source,Target,Weight,Source_Function,Target_Function
+PHIP,CGGBP1,0.46324676,regulation of protein phosphorylation,negative regulation of transcription by RNA polymerase II
+CGGBP1,PHIP,0.4472421,negative regulation of transcription by RNA polymerase II,regulation of protein phosphorylation
+SRRM2,PHIP,0.39449358,"mRNA splicing, via spliceosome",regulation of protein phosphorylation

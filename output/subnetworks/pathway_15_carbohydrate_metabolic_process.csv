@@ -1,0 +1,4 @@
+Source,Target,Weight,Source_Function,Target_Function
+FAM213A,GNPDA1,0.47029445,Unknown,carbohydrate metabolic process
+GNPDA1,HARS,0.40422422,carbohydrate metabolic process,Unknown
+ALDH1B1,GLIPR2,0.382471,carbohydrate metabolic process,positive regulation of epithelial cell migration

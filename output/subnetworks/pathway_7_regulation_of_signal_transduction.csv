@@ -1,0 +1,5 @@
+Source,Target,Weight,Source_Function,Target_Function
+GALT,HPCAL1,0.5799617,UDP-alpha-D-glucose metabolic process,regulation of signal transduction
+PPP2R5A,HPCAL1,0.44842672,signal transduction,regulation of signal transduction
+GPC4,GPC6,0.44546473,regulation of signal transduction,regulation of signal transduction
+HPCAL1,NCALD,0.4116962,regulation of signal transduction,regulation of systemic arterial blood pressure

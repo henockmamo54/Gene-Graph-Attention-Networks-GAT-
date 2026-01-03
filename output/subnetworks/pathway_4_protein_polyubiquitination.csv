@@ -1,0 +1,9 @@
+Source,Target,Weight,Source_Function,Target_Function
+ERAP2,HLTF,1.0,adaptive immune response,protein polyubiquitination
+UBE2D3,UBE2D2,0.49488682,negative regulation of transcription by RNA polymerase II,protein polyubiquitination
+NUFIP2,BLMH,0.41001284,Unknown,protein polyubiquitination
+ITCH,RHEB,0.4096095,protein polyubiquitination,signal transduction
+TRIP12,CGGBP1,0.4082861,protein polyubiquitination,negative regulation of transcription by RNA polymerase II
+ITCH,CDC23,0.40438703,protein polyubiquitination,mitotic cell cycle
+UBE2D2,PSMA7,0.3999521,protein polyubiquitination,immune system process
+FMNL3,BLMH,0.389948,angiogenesis,protein polyubiquitination

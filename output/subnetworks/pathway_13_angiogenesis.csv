@@ -1,0 +1,4 @@
+Source,Target,Weight,Source_Function,Target_Function
+CHMP2B,GLUL,0.65126336,plasma membrane repair,angiogenesis
+FMNL3,FMNL2,0.39979628,angiogenesis,cytoskeleton organization
+FMNL3,BLMH,0.389948,angiogenesis,protein polyubiquitination

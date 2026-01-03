@@ -1,0 +1,5 @@
+Source,Target,Weight,Source_Function,Target_Function
+ATF7IP,URB1,0.5546197,negative regulation of transcription by RNA polymerase II,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+URB1,PDE12,0.54025984,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+URB1,ATF7IP,0.45974013,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",negative regulation of transcription by RNA polymerase II
+MCMBP,URB1,0.40008745,DNA replication,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"

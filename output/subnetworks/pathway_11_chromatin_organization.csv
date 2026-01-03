@@ -1,0 +1,4 @@
+Source,Target,Weight,Source_Function,Target_Function
+DAXX,DNPH1,1.0,chromatin organization,allantoin metabolic process
+PWP1,DDX54,0.4768091,chromatin organization,rRNA processing
+PC,GPX4,0.4275262,gluconeogenesis,chromatin organization

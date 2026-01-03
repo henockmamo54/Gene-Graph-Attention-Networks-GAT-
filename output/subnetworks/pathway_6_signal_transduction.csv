@@ -1,0 +1,7 @@
+Source,Target,Weight,Source_Function,Target_Function
+PTPRG,RBMS1 1,1.0,signal transduction,Unknown
+FMNL2,GRB2,0.46815854,cytoskeleton organization,signal transduction
+PPP2R5A,HPCAL1,0.44842672,signal transduction,regulation of signal transduction
+NENF,ENSA,0.41074085,signal transduction,G2/M transition of mitotic cell cycle
+ITCH,RHEB,0.4096095,protein polyubiquitination,signal transduction
+SCRN1,GDI1,0.39118746,proteolysis,signal transduction

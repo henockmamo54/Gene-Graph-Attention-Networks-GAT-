@@ -1,0 +1,10 @@
+Source,Target,Weight,Source_Function,Target_Function
+ACSS3,PITRM1,0.6758807,lipid metabolic process,proteolysis
+PPIL3,PMVK,0.62197816,"mRNA splicing, via spliceosome",lipid metabolic process
+ECHDC1,ACAA2,0.5182141,fatty acid beta-oxidation,lipid metabolic process
+PRKRA,AGPS,0.44117087,immune response,lipid metabolic process
+FKBP1A,CDS2,0.4316155,heart morphogenesis,lipid metabolic process
+HSD17B11,CISD2,0.40617833,lipid metabolic process,autophagy of mitochondrion
+CPSF2,LBR,0.4013232,mRNA processing,lipid metabolic process
+APOE,PLTP,0.40074283,response to reactive oxygen species,lipid metabolic process
+QSOX1,PLTP,0.39255416,protein folding,lipid metabolic process

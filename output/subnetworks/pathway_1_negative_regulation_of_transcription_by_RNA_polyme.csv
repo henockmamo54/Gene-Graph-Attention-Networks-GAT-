@@ -1,0 +1,14 @@
+Source,Target,Weight,Source_Function,Target_Function
+HSBP1,LIN7C,1.0,negative regulation of transcription by RNA polymerase II,morphogenesis of an epithelial sheet
+C14orf159,PPID,0.59900105,Unknown,negative regulation of transcription by RNA polymerase II
+ATF7IP,URB1,0.5546197,negative regulation of transcription by RNA polymerase II,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+UBE2D3,CASP6,0.5051132,negative regulation of transcription by RNA polymerase II,activation of innate immune response
+UBE2D3,UBE2D2,0.49488682,negative regulation of transcription by RNA polymerase II,protein polyubiquitination
+PHIP,CGGBP1,0.46324676,regulation of protein phosphorylation,negative regulation of transcription by RNA polymerase II
+URB1,ATF7IP,0.45974013,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",negative regulation of transcription by RNA polymerase II
+TRNT1,HSBP1,0.45701072,tRNA 3'-terminal CCA addition,negative regulation of transcription by RNA polymerase II
+CGGBP1,PHIP,0.4472421,negative regulation of transcription by RNA polymerase II,regulation of protein phosphorylation
+LMCD1,DPYSL2,0.44465137,negative regulation of transcription by RNA polymerase II,nucleobase-containing compound metabolic process
+HEATR2,FOXK1,0.41849613,Unknown,negative regulation of transcription by RNA polymerase II
+TRIP12,CGGBP1,0.4082861,protein polyubiquitination,negative regulation of transcription by RNA polymerase II
+TTC38,PURA,0.38701358,Unknown,negative regulation of transcription by RNA polymerase II

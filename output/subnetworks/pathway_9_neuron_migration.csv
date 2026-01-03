@@ -1,0 +1,5 @@
+Source,Target,Weight,Source_Function,Target_Function
+CHL1,DHX38,0.5532906,neuron migration,"mRNA splicing, via spliceosome"
+NEO1,SCYL2,0.4577813,neuron migration,brain development
+CHL1,PNPO,0.44670942,neuron migration,pyridoxine biosynthetic process
+TBC1D10B,NEO1,0.40812114,"retrograde transport, endosome to Golgi",neuron migration

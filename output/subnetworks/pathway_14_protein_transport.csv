@@ -1,0 +1,4 @@
+Source,Target,Weight,Source_Function,Target_Function
+SCRN1,VPS28,0.6088126,proteolysis,protein transport
+NLE1,RAB34,0.5278311,somitogenesis,protein transport
+SNX4,CAMK1D,0.4298817,protein transport,inflammatory response

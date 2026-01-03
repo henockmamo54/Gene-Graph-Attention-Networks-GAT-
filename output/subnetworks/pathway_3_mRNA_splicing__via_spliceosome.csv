@@ -1,0 +1,8 @@
+Source,Target,Weight,Source_Function,Target_Function
+RBM3,CIRBP,1.0,"mRNA splicing, via spliceosome","mRNA splicing, via spliceosome"
+PPIL3,PMVK,0.62197816,"mRNA splicing, via spliceosome",lipid metabolic process
+CHL1,DHX38,0.5532906,neuron migration,"mRNA splicing, via spliceosome"
+CIRBP,LMNB2,0.4231782,"mRNA splicing, via spliceosome",nuclear envelope organization
+SRRM2,PHIP,0.39449358,"mRNA splicing, via spliceosome",regulation of protein phosphorylation
+SRRM2,LRRC16A,0.3833874,"mRNA splicing, via spliceosome",Unknown
+PPIL3,SIRT5,0.37802187,"mRNA splicing, via spliceosome",response to ischemia

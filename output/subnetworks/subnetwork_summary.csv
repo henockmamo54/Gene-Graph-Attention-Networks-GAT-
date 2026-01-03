@@ -1,0 +1,16 @@
+rank,pathway,filename
+1,negative regulation of transcription by RNA polymerase II,output/subnetworks/pathway_1_negative_regulation_of_transcription_by_RNA_polyme.csv
+2,lipid metabolic process,output/subnetworks/pathway_2_lipid_metabolic_process.csv
+3,"mRNA splicing, via spliceosome",output/subnetworks/pathway_3_mRNA_splicing__via_spliceosome.csv
+4,protein polyubiquitination,output/subnetworks/pathway_4_protein_polyubiquitination.csv
+5,proteolysis,output/subnetworks/pathway_5_proteolysis.csv
+6,signal transduction,output/subnetworks/pathway_6_signal_transduction.csv
+7,regulation of signal transduction,output/subnetworks/pathway_7_regulation_of_signal_transduction.csv
+8,cytoskeleton organization,output/subnetworks/pathway_8_cytoskeleton_organization.csv
+9,neuron migration,output/subnetworks/pathway_9_neuron_migration.csv
+10,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",output/subnetworks/pathway_10_maturation_of_LSU_rRNA_from_tricistronic_rRNA_tran.csv
+11,chromatin organization,output/subnetworks/pathway_11_chromatin_organization.csv
+12,regulation of protein phosphorylation,output/subnetworks/pathway_12_regulation_of_protein_phosphorylation.csv
+13,angiogenesis,output/subnetworks/pathway_13_angiogenesis.csv
+14,protein transport,output/subnetworks/pathway_14_protein_transport.csv
+15,carbohydrate metabolic process,output/subnetworks/pathway_15_carbohydrate_metabolic_process.csv

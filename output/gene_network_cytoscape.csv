@@ -1,0 +1,151 @@
+Source,Target,Weight,Source_Function,Target_Function
+SBDS,ESYT2,1.0,inner cell mass cell proliferation,lipid transport
+DAXX,DNPH1,1.0,chromatin organization,allantoin metabolic process
+EIF2D,BROX,1.0,formation of translation preinitiation complex,mitotic nuclear membrane reassembly
+PTPRG,RBMS1 1,1.0,signal transduction,Unknown
+RBM3,CIRBP,1.0,"mRNA splicing, via spliceosome","mRNA splicing, via spliceosome"
+ERAP2,HLTF,1.0,adaptive immune response,protein polyubiquitination
+TSC22D1,VANGL2,1.0,regulation of transcription by RNA polymerase II,establishment of planar polarity
+RAB22A,QKI,1.0,intracellular protein transport,vasculogenesis
+SH3GL1,SRGAP2,1.0,endocytosis,lamellipodium assembly involved in ameboidal cell migration
+CHCHD2,C9orf64,1.0,mitochondrion organization,Unknown
+FABP5,PEPD,1.0,glucose metabolic process,proteolysis
+AIP,CORO1B,1.0,protein targeting to mitochondrion,actin filament organization
+HSBP1,LIN7C,1.0,negative regulation of transcription by RNA polymerase II,morphogenesis of an epithelial sheet
+QKI,CLASP2 1,0.7398225,vasculogenesis,Unknown
+ACSS3,PITRM1,0.6758807,lipid metabolic process,proteolysis
+AKR1B1,SPG20,0.66257435,retinoid metabolic process,Unknown
+CHMP2B,GLUL,0.65126336,plasma membrane repair,angiogenesis
+TBC1D4,PRKAR2B,0.6365843,vesicle-mediated transport,negative regulation of inflammatory response to antigenic stimulus
+AUP1,GTF2B,0.6313256,response to virus,transcriptional start site selection at RNA polymerase II promoter
+PPIL3,PMVK,0.62197816,"mRNA splicing, via spliceosome",lipid metabolic process
+POLR3A,FKBP1A,0.6212946,immune system process,heart morphogenesis
+CBFB 2,CBFB 1,0.61677283,Unknown,Unknown
+SCRN1,VPS28,0.6088126,proteolysis,protein transport
+C14orf159,PPID,0.59900105,Unknown,negative regulation of transcription by RNA polymerase II
+PRKCD,TKT,0.596359,protein phosphorylation,pentose-phosphate shunt
+NP_001122083,HDHD2,0.58936316,Unknown,Unknown
+CLASP2 2,CLASP2 1,0.58934325,Unknown,Unknown
+DHX29,FAF2,0.587605,formation of translation preinitiation complex,response to unfolded protein
+EXOC4,EXOC7,0.58296144,mitotic cytokinesis,mitotic cytokinesis
+GALT,HPCAL1,0.5799617,UDP-alpha-D-glucose metabolic process,regulation of signal transduction
+FTH1,FTL,0.57589734,iron ion transport,iron ion transport
+GTF2B,NUP107,0.5747395,transcriptional start site selection at RNA polymerase II promoter,post-transcriptional tethering of RNA polymerase II gene DNA at nuclear periphery
+GSTT1,PTPLB,0.56328475,glutathione metabolic process,Unknown
+CBFB 1,CBFB 2,0.5589715,Unknown,Unknown
+CD97,SLFN5,0.5555625,Unknown,rRNA catabolic process
+DTYMK,BOLA2B,0.5552214,dUDP biosynthetic process,intracellular iron ion homeostasis
+ATF7IP,URB1,0.5546197,negative regulation of transcription by RNA polymerase II,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+CHL1,DHX38,0.5532906,neuron migration,"mRNA splicing, via spliceosome"
+TRNT1,XPC,0.54298925,tRNA 3'-terminal CCA addition,pyrimidine dimer repair by nucleotide-excision repair
+MAPK14 1,MAPK14 2,0.5413064,Unknown,Unknown
+URB1,PDE12,0.54025984,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+FCGBP,AHNAK 2,0.5346162,Unknown,Unknown
+DEPTOR,ASRGL1,0.53342974,negative regulation of protein kinase activity,proteolysis
+PUM2,RRM1,0.53171325,skeletal system development,DNA synthesis involved in DNA repair
+INTS3,ENSA,0.53126675,double-strand break repair via homologous recombination,G2/M transition of mitotic cell cycle
+CCS,NEMF,0.5309843,superoxide metabolic process,nuclear export
+NLE1,RAB34,0.5278311,somitogenesis,protein transport
+MSRB2,MAPK14 2,0.52066696,response to oxidative stress,Unknown
+NDUFAF7,CLPP,0.5194884,"peptidyl-arginine methylation, to symmetrical-dimethyl arginine",proteolysis
+ECHDC1,ACAA2,0.5182141,fatty acid beta-oxidation,lipid metabolic process
+MAP1B,CLASP2 1,0.5083829,microtubule cytoskeleton organization,Unknown
+UBE2D3,CASP6,0.5051132,negative regulation of transcription by RNA polymerase II,activation of innate immune response
+EIF1B,TMX2,0.5031183,translation,brain development
+AKT2,AKT1,0.5014484,glycogen metabolic process,osteoblast differentiation
+EIF1B,PSME3,0.4968817,translation,apoptotic process
+UBE2D3,UBE2D2,0.49488682,negative regulation of transcription by RNA polymerase II,protein polyubiquitination
+RPL22,SDAD1,0.48348194,cytoplasmic translation,ribosomal large subunit export from nucleus
+SRM,PITHD1,0.48220748,polyamine metabolic process,spermatid development
+NAPRT,CANX,0.47753263,response to oxidative stress,protein folding
+PWP1,DDX54,0.4768091,chromatin organization,rRNA processing
+DIAPH2,HDHD1,0.4753443,female gamete generation,Unknown
+LASP1,MYO18A,0.4745914,monoatomic ion transport,DNA metabolic process
+PALM2-AKAP2,NANS,0.4742605,Unknown,N-acetylneuraminate metabolic process
+FAM213A,GNPDA1,0.47029445,Unknown,carbohydrate metabolic process
+CCS,LAMA5,0.46901572,superoxide metabolic process,branching involved in ureteric bud morphogenesis
+FMNL2,GRB2,0.46815854,cytoskeleton organization,signal transduction
+DEPTOR,MTOR,0.4665703,negative regulation of protein kinase activity,regulation of cell growth
+FCGBP,LY75-CD302,0.46538377,Unknown,Unknown
+PHIP,CGGBP1,0.46324676,regulation of protein phosphorylation,negative regulation of transcription by RNA polymerase II
+URB1,ATF7IP,0.45974013,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",negative regulation of transcription by RNA polymerase II
+EEFSEC,DBR1,0.4580782,selenocysteine incorporation,RNA fragment catabolic process
+NEO1,SCYL2,0.4577813,neuron migration,brain development
+TRNT1,HSBP1,0.45701072,tRNA 3'-terminal CCA addition,negative regulation of transcription by RNA polymerase II
+VCAM1,UBE2Z,0.45536846,response to hypoxia,ubiquitin-dependent protein catabolic process
+ARHGAP4,AIP,0.45121253,cytoskeleton organization,protein targeting to mitochondrion
+HMCN1,AKAP13,0.44985324,homophilic cell-cell adhesion,MAPK cascade
+IKBKB,MAPK14 1,0.44859332,pattern recognition receptor signaling pathway,Unknown
+CLGN,AGPAT5,0.4485262,protein folding,hematopoietic progenitor cell differentiation
+PPP2R5A,HPCAL1,0.44842672,signal transduction,regulation of signal transduction
+SLFN5,SAMHD1,0.4478485,rRNA catabolic process,double-strand break repair via homologous recombination
+CGGBP1,PHIP,0.4472421,negative regulation of transcription by RNA polymerase II,regulation of protein phosphorylation
+CHL1,PNPO,0.44670942,neuron migration,pyridoxine biosynthetic process
+GPC4,GPC6,0.44546473,regulation of signal transduction,regulation of signal transduction
+DTYMK,LSR,0.44477865,dUDP biosynthetic process,liver development
+LMCD1,DPYSL2,0.44465137,negative regulation of transcription by RNA polymerase II,nucleobase-containing compound metabolic process
+CD97,AKT2,0.44443753,Unknown,glycogen metabolic process
+PRKCA,FN3KRP,0.44265062,response to reactive oxygen species,post-translational protein modification
+PRKRA,AGPS,0.44117087,immune response,lipid metabolic process
+SULT1A1,CLASP2 1,0.43927824,ethanol catabolic process,Unknown
+FNTA,CPNE2,0.43873325,enzyme-linked receptor protein signaling pathway,cellular response to calcium ion
+TMEM109,PTPLB,0.43850315,monoatomic ion transport,Unknown
+GSTT1,RABL6,0.43671525,glutathione metabolic process,Unknown
+RMDN1,CPNE3,0.4323823,mitotic spindle organization,positive regulation of cell migration
+FKBP1A,CDS2,0.4316155,heart morphogenesis,lipid metabolic process
+SNX4,CAMK1D,0.4298817,protein transport,inflammatory response
+PC,GPX4,0.4275262,gluconeogenesis,chromatin organization
+CPOX,ACSF2,0.42545384,porphyrin-containing compound biosynthetic process,long-chain fatty acid metabolic process
+GTF2B,AUP1,0.42526048,transcriptional start site selection at RNA polymerase II promoter,response to virus
+CYP20A1,SNX5,0.42509127,Unknown,intracellular protein transport
+RAB12,CLASP2 2,0.4248504,exocytosis,Unknown
+CIRBP,LMNB2,0.4231782,"mRNA splicing, via spliceosome",nuclear envelope organization
+EMILIN2,FGL2,0.4217849,cell adhesion,T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+GALT,GMFB,0.42003828,UDP-alpha-D-glucose metabolic process,protein phosphorylation
+TRIM22,OPTN,0.41944623,positive regulation of defense response to virus by host,negative regulation of receptor recycling
+HEATR2,FOXK1,0.41849613,Unknown,negative regulation of transcription by RNA polymerase II
+RNF214,CDKN2AIP,0.4182228,Unknown,DNA damage response
+CALB2,FABP4,0.41460612,intracellular calcium ion homeostasis,response to bacterium
+CPSF2,SRGAP2,0.4117671,mRNA processing,lamellipodium assembly involved in ameboidal cell migration
+HPCAL1,NCALD,0.4116962,regulation of signal transduction,regulation of systemic arterial blood pressure
+NENF,ENSA,0.41074085,signal transduction,G2/M transition of mitotic cell cycle
+ARHGAP4,SRP19,0.41069987,cytoskeleton organization,cotranslational protein targeting to membrane
+NP_001122083,PACS1,0.41063684,Unknown,lymphocyte homeostasis
+NUFIP2,BLMH,0.41001284,Unknown,protein polyubiquitination
+ITCH,RHEB,0.4096095,protein polyubiquitination,signal transduction
+TRIP12,CGGBP1,0.4082861,protein polyubiquitination,negative regulation of transcription by RNA polymerase II
+TBC1D10B,NEO1,0.40812114,"retrograde transport, endosome to Golgi",neuron migration
+HSD17B11,CISD2,0.40617833,lipid metabolic process,autophagy of mitochondrion
+ITCH,CDC23,0.40438703,protein polyubiquitination,mitotic cell cycle
+RAB4A,TBC1D5,0.40430588,small GTPase-mediated signal transduction,positive regulation of receptor internalization
+GNPDA1,HARS,0.40422422,carbohydrate metabolic process,Unknown
+GOPC,SNX3,0.40413883,endoplasmic reticulum to Golgi vesicle-mediated transport,response to bacterium
+MAPK14 2,MAPK14 1,0.4025761,Unknown,Unknown
+PALM2-AKAP2,PRSS3,0.4020753,Unknown,proteolysis
+CPSF2,LBR,0.4013232,mRNA processing,lipid metabolic process
+C14orf159,TARS2,0.4009989,Unknown,translation
+APOE,PLTP,0.40074283,response to reactive oxygen species,lipid metabolic process
+MCMBP,URB1,0.40008745,DNA replication,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)"
+UBE2D2,PSMA7,0.3999521,protein polyubiquitination,immune system process
+FMNL3,FMNL2,0.39979628,angiogenesis,cytoskeleton organization
+DDX51,FKBP1A,0.39746064,rRNA processing,heart morphogenesis
+POGLUT1,EEFSEC,0.39718834,somitogenesis,selenocysteine incorporation
+SCAF4,PTPLB,0.39703774,"negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled",Unknown
+PRKCA,KCTD12,0.3957659,response to reactive oxygen species,regulation of G protein-coupled receptor signaling pathway
+ORC3,SLC29A1,0.39490664,DNA replication,neurotransmitter uptake
+MDK,USP47,0.39477277,behavioral fear response,DNA repair
+SRRM2,PHIP,0.39449358,"mRNA splicing, via spliceosome",regulation of protein phosphorylation
+QSOX1,PLTP,0.39255416,protein folding,lipid metabolic process
+AGFG1,FN3KRP,0.39167064,acrosome assembly,post-translational protein modification
+SCRN1,GDI1,0.39118746,proteolysis,signal transduction
+FMNL3,BLMH,0.389948,angiogenesis,protein polyubiquitination
+PTRH2,CLASP2 1,0.3893434,apoptotic process,Unknown
+TTC38,PURA,0.38701358,Unknown,negative regulation of transcription by RNA polymerase II
+SRRM2,LRRC16A,0.3833874,"mRNA splicing, via spliceosome",Unknown
+RAB4A,BROX,0.3832515,small GTPase-mediated signal transduction,mitotic nuclear membrane reassembly
+ALDH1B1,GLIPR2,0.382471,carbohydrate metabolic process,positive regulation of epithelial cell migration
+SMYD5,IPO8,0.38102365,methylation,protein import into nucleus
+TSPAN14,ABCC4,0.38068375,positive regulation of Notch signaling pathway,platelet degranulation
+POLR3A,DCPS,0.37870535,immune system process,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+PPIL3,SIRT5,0.37802187,"mRNA splicing, via spliceosome",response to ischemia
+AMPD2,METTL7A,0.3765868,IMP biosynthetic process,Unknown

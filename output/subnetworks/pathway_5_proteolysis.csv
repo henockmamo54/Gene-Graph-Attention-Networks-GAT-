@@ -1,0 +1,8 @@
+Source,Target,Weight,Source_Function,Target_Function
+FABP5,PEPD,1.0,glucose metabolic process,proteolysis
+ACSS3,PITRM1,0.6758807,lipid metabolic process,proteolysis
+SCRN1,VPS28,0.6088126,proteolysis,protein transport
+DEPTOR,ASRGL1,0.53342974,negative regulation of protein kinase activity,proteolysis
+NDUFAF7,CLPP,0.5194884,"peptidyl-arginine methylation, to symmetrical-dimethyl arginine",proteolysis
+PALM2-AKAP2,PRSS3,0.4020753,Unknown,proteolysis
+SCRN1,GDI1,0.39118746,proteolysis,signal transduction
